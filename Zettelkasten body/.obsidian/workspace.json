@@ -8,36 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53e8e59e4080fcc6",
+            "id": "917c8ed733b78f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMake.md",
+                "file": "Instantiation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "111162f613ad9a23",
+            "id": "ae8a7d1fb0fb2db1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMake.md",
+                "file": "Explicit instantiation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac3dcf3b49a5e200",
+            "id": "fee2ffd8c1d99cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generator-expressions.md",
+                "file": "Implicit instantiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4abecf240ff01f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implicit instantiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01c78ee0c4ec6351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMake.md",
+                "file": "Explicit instantiation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMake.md",
+                "file": "Explicit instantiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMake.md"
+                "file": "Explicit instantiation.md"
               }
             }
           }
@@ -171,10 +195,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "111162f613ad9a23",
+  "active": "ae8a7d1fb0fb2db1",
   "lastOpenFiles": [
-    "list.md",
+    "Instantiation.md",
+    "Implicit instantiation.md",
+    "Delete specialization.md",
+    "Template specialization.md",
+    "Templates.md",
+    "C++.md",
+    "git.md",
     "CMake.md",
+    "Explicit instantiation.md",
+    "namespace.md",
+    "hacks.md",
+    "template id.md",
+    "Specialization.md",
+    "revert.md",
+    "list.md",
     "generator-expressions.md",
     "Техники проектирования.md",
     "OOP.md",
@@ -186,26 +223,13 @@
     "Базовые понятия.md",
     "OCP.md",
     "Отношения между типами.md",
-    "ISP.md",
     "Pasted image 20230721124540.png",
     "Pasted image 20230721124336.png",
-    "LSP.md",
     "Pasted image 20230721123323.png",
     "Pasted image 20230721123233.png",
-    "Логические отношения.md",
     "Pasted image 20230721122530.png",
     "Pasted image 20230721122218.png",
     "Pasted image 20230721122002.png",
-    "Принципы проктирования работы с исключениями.md",
-    "Ассоциация.md",
-    "SRP.md",
-    "Менеджмент.md",
-    "Композиция.md",
-    "Оператор noexcept.md",
-    "Операторы.md",
-    "UML.md",
-    "Агрегирование.md",
-    "Деструктор.md",
     "Pasted image 20230720155120.png",
     "Pasted image 20230720153022.png",
     "Pasted image 20230720152858.png",
