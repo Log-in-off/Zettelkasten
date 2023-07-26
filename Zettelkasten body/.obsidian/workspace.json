@@ -20,48 +20,84 @@
             }
           },
           {
-            "id": "ae8a7d1fb0fb2db1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Explicit instantiation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fee2ffd8c1d99cef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implicit instantiation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4abecf240ff01f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implicit instantiation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "01c78ee0c4ec6351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates.md",
+                "file": "Упрощение имен в специализациях.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee375db05e9cbb89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disambiguation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57126bcf126130b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disambiguation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b188d8fc63319cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Two Phase Lookup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93245a045b5e2180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Упрощение имен в специализациях.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "809b8fd2adf2dcdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reason to use this.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "397b093f31d71614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reason to use this.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Explicit instantiation.md",
+                "file": "Упрощение имен в специализациях.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Explicit instantiation.md",
+                "file": "Упрощение имен в специализациях.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Explicit instantiation.md"
+                "file": "Упрощение имен в специализациях.md"
               }
             }
           }
@@ -195,22 +231,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ae8a7d1fb0fb2db1",
+  "active": "01c78ee0c4ec6351",
   "lastOpenFiles": [
-    "Instantiation.md",
-    "Implicit instantiation.md",
-    "Delete specialization.md",
-    "Template specialization.md",
     "Templates.md",
+    "Упрощение имен в специализациях.md",
+    "Partial template specialization.md",
+    "Template specialization.md",
+    "Reason to use this.md",
+    "revert.md",
     "C++.md",
+    "Disambiguation.md",
+    "Two Phase Lookup.md",
+    "Instantiation.md",
+    "Pasted image 20230726112221.png",
+    "Implicit instantiation.md",
+    "Explicit instantiation.md",
+    "Delete specialization.md",
     "git.md",
     "CMake.md",
-    "Explicit instantiation.md",
     "namespace.md",
     "hacks.md",
     "template id.md",
     "Specialization.md",
-    "revert.md",
     "list.md",
     "generator-expressions.md",
     "Техники проектирования.md",
@@ -218,11 +260,6 @@
     "Паттерны проектирования.md",
     "Паттерные проектирования.md",
     "Хороший код.md",
-    "DIP.md",
-    "SOLID.md",
-    "Базовые понятия.md",
-    "OCP.md",
-    "Отношения между типами.md",
     "Pasted image 20230721124540.png",
     "Pasted image 20230721124336.png",
     "Pasted image 20230721123323.png",
@@ -232,7 +269,6 @@
     "Pasted image 20230721122002.png",
     "Pasted image 20230720155120.png",
     "Pasted image 20230720153022.png",
-    "Pasted image 20230720152858.png",
     "Без названия",
     "CLion"
   ]
