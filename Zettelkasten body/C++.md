@@ -6,3 +6,8 @@
 [[Templates]]
 [[namespace]]
 [[Reason to use this]]
+[[auto]]
+[[Value Categories]]
+[[Copy Elision]]
+
+[[c++17]]

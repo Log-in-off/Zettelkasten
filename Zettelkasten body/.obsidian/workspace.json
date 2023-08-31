@@ -4,107 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "88a902e6e68b67cd",
+        "id": "76e836a1aa2dc091",
         "type": "tabs",
         "children": [
           {
-            "id": "917c8ed733b78f79",
+            "id": "dfb295d9d78fe363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instantiation.md",
+                "file": "Templates.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "01c78ee0c4ec6351",
+            "id": "a809075d884d24be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Упрощение имен в специализациях.md",
+                "file": "forward.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee375db05e9cbb89",
+            "id": "cbe6f47049f266c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disambiguation.md",
+                "file": "forward.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57126bcf126130b5",
+            "id": "ea56299d4e945db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disambiguation.md",
+                "file": "auto.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b188d8fc63319cb4",
+            "id": "f1973e5fd80287fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Phase Lookup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93245a045b5e2180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Упрощение имен в специализациях.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "809b8fd2adf2dcdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reason to use this.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "397b093f31d71614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reason to use this.md",
+                "file": "Decltype.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "std::",
+                "query": "decl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Упрощение имен в специализациях.md",
+                "file": "Templates.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Упрощение имен в специализациях.md",
+                "file": "Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Упрощение имен в специализациях.md"
+                "file": "Templates.md"
               }
             }
           }
@@ -231,35 +195,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "01c78ee0c4ec6351",
+  "active": "dfb295d9d78fe363",
   "lastOpenFiles": [
+    "Decltype.md",
+    "Оператор noexcept.md",
+    "forward.md",
     "Templates.md",
-    "Упрощение имен в специализациях.md",
-    "Partial template specialization.md",
-    "Template specialization.md",
-    "Reason to use this.md",
-    "revert.md",
+    "auto.md",
+    "Вывод типов.md",
+    "Value Categories.md",
+    "for auto&&.md",
+    "Forwarding references.md",
+    "Reference Collapsing.md",
+    "Not universal references.md",
+    "Идиомы.md",
     "C++.md",
-    "Disambiguation.md",
-    "Two Phase Lookup.md",
-    "Instantiation.md",
-    "Pasted image 20230726112221.png",
-    "Implicit instantiation.md",
-    "Explicit instantiation.md",
-    "Delete specialization.md",
-    "git.md",
-    "CMake.md",
-    "namespace.md",
-    "hacks.md",
+    "CTAD.md",
+    "Copy Elision.md",
+    "Use before deduction.md",
+    "Неуточненные типы.md",
+    "Уточненные типы.md",
+    "Подстановка типов.md",
+    "c++17.md",
+    "Execution policy.md",
+    "Pasted image 20230813190244.png",
+    "Вывод типов для конструкторов.md",
     "template id.md",
-    "Specialization.md",
-    "list.md",
-    "generator-expressions.md",
-    "Техники проектирования.md",
-    "OOP.md",
-    "Паттерны проектирования.md",
-    "Паттерные проектирования.md",
-    "Хороший код.md",
+    "Catch2.md",
+    "git.md",
+    "revert.md",
+    "Pasted image 20230726112221.png",
     "Pasted image 20230721124540.png",
     "Pasted image 20230721124336.png",
     "Pasted image 20230721123323.png",
@@ -268,7 +233,6 @@
     "Pasted image 20230721122218.png",
     "Pasted image 20230721122002.png",
     "Pasted image 20230720155120.png",
-    "Pasted image 20230720153022.png",
     "Без названия",
     "CLion"
   ]

@@ -7,3 +7,9 @@
 [[Partial template specialization]]
 [[Упрощение имен в специализациях]]
 [[Two Phase Lookup]]
+[[Вывод типов]]
+
+[[Forwarding references]]
+[[forward]]
+
+[литература](https://youtu.be/MsuddUd7E2A?list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&t=4652)
