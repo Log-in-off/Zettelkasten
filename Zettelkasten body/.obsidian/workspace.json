@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates.md",
+                "file": "Decltype.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates.md",
+                "file": "Decltype.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates.md",
+                "file": "Decltype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates.md"
+                "file": "Decltype.md"
               }
             }
           }
@@ -197,11 +197,11 @@
   },
   "active": "dfb295d9d78fe363",
   "lastOpenFiles": [
+    "auto.md",
+    "Templates.md",
     "Decltype.md",
     "Оператор noexcept.md",
     "forward.md",
-    "Templates.md",
-    "auto.md",
     "Вывод типов.md",
     "Value Categories.md",
     "for auto&&.md",
