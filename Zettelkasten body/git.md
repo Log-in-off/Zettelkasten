@@ -1,2 +1,6 @@
 [[revert]]
 [[config]]
+[[git_clean]]
+[[submodule]]
+[[git_apply]]
+[[git_patch]]
