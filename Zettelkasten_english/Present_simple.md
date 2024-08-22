@@ -21,8 +21,8 @@ How to build sentence:
 
 | Subject          | Positive   | Question             | Negative         |
 | ---------------- | ---------- | -------------------- | ---------------- |
-| I, you, we, they | S + V1     | (QW) + Do +S + V1    | S + don't  + V1  |
-| he, she, it      | S + V1(+s) | (QW) + Does + S + V1 | S + doesn't + V1 |
+| I, you, we, they | S + V0     | (QW) + Do +S + V0    | S + don't  + V0  |
+| he, she, it      | S + V1(+s) | (QW) + Does + S + V0 | S + doesn't + V0 |
 *(QW) - optional Question Word*
 
 in case question with `Who` we use order like in positive sentence:

@@ -80,6 +80,16 @@
             }
           },
           {
+            "id": "d550b985026d3f0a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "4a48c7077099513f",
             "type": "leaf",
             "state": {
@@ -104,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -242,7 +252,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec970060c31c957d",
+  "active": "d550b985026d3f0a",
   "lastOpenFiles": [
     "git.md",
     "submodule.md",
