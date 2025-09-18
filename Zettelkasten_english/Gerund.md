@@ -1,0 +1,100 @@
+
+Gerund is the present [[Participle]] (`+ing`) form of the verb. 
+It is a verb that is acting as a noun. 
+
+there are 3 types of gerund
+- **non-perfect gerund** is used to describe action which doing in the same time(simultaneous  action) as the main action (verb)
+	- **V + int**
+		- She enjoys **swimming**. 
+- **perfect gerund** is used to describe action that precedes ( was before the main action)
+	- **having + past participle**
+		- We are surprised at her **having failed** the exam. 
+- **passive gerund** is used to focus on the receiver of action. 
+	- **being + past participle**
+		- I hate interrupting people -> I hate **being interrupted**. 
+- addition(passive meaning)
+	- We have to use active voice (V + non-perfect gerund)  and a passive meaning after this word
+		- to need 
+			- This car needs repairing.
+		- to require
+		- to deserve
+			- The idea deserves considering carefully.
+		- to want 
+			- These shoes want polishing.
+		- worth
+			- This book is worth reading
+			- The proposal is worth discussing further.
+- extra
+	-  a master/genius at doing smth
+	- for the purpose of doing smth
+	- be no good / use doing smth.
+		- It’s no good **complaining** about the situation; we need to take action.
+		- It’s no use arguing with him; he won’t change his mind.
+	- have difficulty (in) doing smth,
+	- have no intention of doing smth
+	- have no objection to doing smth
+	- have the habit/idea/chance of doing smth
+	- have experience/skill in doing smth.
+
+## We have to use [[Gerund]]
+- after certain verbs
+	- consider
+		- She is considering taking up a course.
+	- suggest
+	- avoid
+	- acknowledge
+	- admit
+		- He admitted buying new scissors.  
+	- appreciate
+	- recommend
+		- I recommended buying a new car.
+		- I recommended that he buy a new car [[Subjunctive_mood]]
+	- imagine
+		- She imagined sharing her joy with her friends.
+	- enjoy
+	- evade
+	- fancy
+	- fear
+	- forgive
+	- discuss
+		- They like discussing buying new clothes. 
+	- dislike
+	- mention
+	- miss
+	- finish
+	- mind
+	- keep
+	- give up
+	- can't help (it means, person can't not feel something or do something)
+		- I can't help laughing when i watch that movie. 
+		- I can't help thinking about the problem.
+	- deny
+		- She denied knowing anything about the incident. 
+	- postpone
+		- I don't want to postpone celebrating my birthday
+	- practice
+	- delay
+		- He delays cleaning his room. 
+	- risk
+		- He didn’t want to **risk losing** his job
+		- By skipping breakfast, you **risk feeling** tired later
+		- You shouldn’t **risk taking** that shortcut—it might be dangerous.
+- after [[Prepositions]] and [[Phrasal_verbs]]
+	- My father is very good **at engineering**.
+	- My coach advised me to **carry on swimming**.
+	- Try as I might, I just can't figure out **programming**.
+- as a subject(S) or object(O) of the sentence 
+	- **Watching** ads can be so boring 
+	- She enjoy **swimming**
+- specific case.
+	- use gerund after these [[Collocations]]
+		-  **look forward to**
+		-  **be used to**
+		- **feel like** (хочется)
+			- I feel like eating something sweet. 
+			- She felt like doing bold.
+		-  **get around to**
+			- I finally got around to cleaning my room(добрался) 
+			- He keeps **saying** he will call, but he never gets around to **doing** it. (он постоянно говорит, что позвонит, но никогда не находит время для этого/ никогда не добирается до этого)
+
+

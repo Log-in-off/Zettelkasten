@@ -1,0 +1,1 @@
+At last he has bought a new car. (finally)

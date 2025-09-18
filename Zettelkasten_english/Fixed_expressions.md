@@ -1,5 +1,6 @@
-## plans
-[[be_about_to]]
+## plans (ways to express the future)
+[[to_be_about_to]]
+[[to_plan_I_to_intend_I_mean__to]]
 
 ## preference 
 [[would_rather]]

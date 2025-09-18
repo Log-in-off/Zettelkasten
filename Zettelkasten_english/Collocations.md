@@ -1,2 +1,7 @@
 [[out_of]]
+[[the_least]]
 [[at_least]]
+[[at_last]]
+[[so_far]]
+[[due_to_the_fact_that]]
+[[followed_by]]

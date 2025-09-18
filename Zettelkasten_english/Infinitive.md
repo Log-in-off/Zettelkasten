@@ -1,0 +1,87 @@
+[[Infinitive]] is a  bare form of verb
+
+`Verb + object + infinitive`  = [[Infinitive_complex_object]]
+## We have to use it 
+- after [[adjective]]s
+	- It is **great** to have so [[many]] friends
+- after too + [[adjective]]
+	- It was **too cold** to walk outside.
+- after [[adjective]] + enough 
+	- She is **brave enough** to ask him about it.
+- after question world([[QW]]) 
+	- Can you show me how to start engine?
+	- I don't know what to do.
+- to show purpose
+	- We came there to talk to the professor. 
+-  explaining purposes of simple everyday actions
+	- Subject + verb + Object(optional) + "to" + Verb. 
+	- I go to work to earn money.
+- passive constructions with an infinitive
+	- He is expected to arrive soon.
+	- The project was decided to be cancelled.
+- after certain `verbs + nouns` or **pronouns** referring to a person
+	- verbs
+		- ask
+		- expect
+		- hire
+		- invite
+		- teach
+		- tell
+		- warn
+		- encourage
+		- remind
+		- require
+		- urge
+	- examples
+		- I expect **you to come** early tomorrow.
+		- They told us to stay longer.
+- after certain verbs. An easy rule to keep in mind is that these verbs are used to describe a discussion about something that is abstract, not real, or only might happen. 
+	- verbs
+		- would like
+		- hope
+			- My nephew hopes to become a chiff.
+		- decide
+			- We decided to host the New Year's party this year
+		- agree
+			- They agreed to help. 
+		- wait
+		- need
+		- afford
+			- she couldn't afford to overlook any details. 
+		- offer
+		- promise
+		- plan
+			- He plans to change a tap. 
+		- seem
+			- He seems to know the answer. 
+		- appear
+		- tend
+			- She tends to buy mugs as souvenirs. 
+		- fail
+		- happen
+			- I happened to see her at the grocery yesterday. 
+- after extra verbs
+	- verbs
+		- want
+		- refuse
+			- He refused to answer my question.
+		- learn (when we say what is learning)
+			- I'm learning to play [[the]] piano.
+		- choose
+			- She chose to decorate the house in red. 
+		- intend
+		- manage
+		- demand
+			- He demanded to increase his salary. 
+		- threaten
+			- He threatened to quit his job if his request wasn't guaranteed.
+		- deserve
+			- He deserved to get a promotion. 
+- bare infinitive: after this verbs we have to use verb without **to**
+	- let
+	- make
+	- have
+	- help
+	- see
+		- He saw us buy a new laptop yesterday.
+	- hear

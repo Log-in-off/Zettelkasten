@@ -8,135 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b2bbdef825785bc",
+            "id": "2fa017f13ba496fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles.md",
+                "file": "Gerund.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Gerund"
             }
           },
           {
-            "id": "c0c03207b403b8de",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0cf1bcf46b1cb3f5",
+            "id": "abd7a7b8bf6dbff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed_expressions.md",
+                "file": "Collocations.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Collocations"
             }
           },
           {
-            "id": "9013e68d3d77f964",
+            "id": "d77216bcb753ff46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the.md",
+                "file": "the_least.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "the_least"
             }
           },
           {
-            "id": "f863acf207329527",
+            "id": "47abaaf6af26ba6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed_expressions.md",
+                "file": "Reported_speech.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Reported_speech"
             }
           },
           {
-            "id": "7f8df17c98e64273",
+            "id": "1f2c48f38d38298c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "would_rather.md",
+                "file": "Modal_verbs.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Modal_verbs"
             }
           },
           {
-            "id": "31e5a8eebdd9d4be",
+            "id": "ce6bcd886f2a2051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed_expressions.md",
+                "file": "Modals_of_deduction.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Modals_of_deduction"
             }
           },
           {
-            "id": "14a3a6fbd0575f4c",
+            "id": "13839e55ebf4a888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "had_better.md",
+                "file": "Infinitive.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Infinitive"
             }
           },
           {
-            "id": "ed3dc66545f52ad1",
+            "id": "fdf2415cb80fcd25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "it_is_time.md",
+                "file": "Infinitive_vs_gerund.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Infinitive_vs_gerund"
             }
           },
           {
-            "id": "34490386998ab0eb",
+            "id": "8e9bdf71b40d16bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zero_article.md",
+                "file": "Infinitive.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Infinitive"
             }
           },
           {
-            "id": "e3bd2e58783d4cf7",
+            "id": "a0ca668b9ccd673b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Present_simple.md",
+                "file": "Verb_and_preposition_collocations.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Verb_and_preposition_collocations"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -155,8 +167,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -165,13 +180,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "modal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -179,10 +196,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,15 +222,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the.md",
+                "file": "Modals_of_deduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "TO",
-                "backlinkCollapsed": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Modals_of_deduction"
             }
           },
           {
@@ -219,10 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the.md",
+                "file": "Participle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Participle"
             }
           },
           {
@@ -233,7 +257,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -242,15 +268,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the.md"
-              }
+                "file": "Participle.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Participle"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,32 +290,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9013e68d3d77f964",
+  "active": "ce6bcd886f2a2051",
   "lastOpenFiles": [
-    "Preposition_of_time.md",
-    "the.md",
-    "some.md",
-    "Present_simple.md",
-    "it_is_time.md",
+    "Modals_of_deduction.md",
+    "Modal_verbs.md",
+    "Reported_speech.md",
+    "Participle.md",
+    "present.md",
+    "past.md",
+    "Gerund.md",
     "Fixed_expressions.md",
-    "would_rather.md",
-    "had_better.md",
-    "Expressions.md",
-    "i_wish.md",
-    "out_of.md",
-    "zero_article.md",
-    "Suffix-es.md",
     "Collocations.md",
-    "Ways_to_express_the_future.md",
-    "Suffix-ed.md",
-    "Tenses.md",
-    "Articles.md",
-    "Suffixes.md",
-    "Prepositions_of_place.md",
+    "Degrees_of_comparison.md",
+    "the_least.md",
+    "would_rather.md",
+    "2025-01-02.md",
+    "Infinitive.md",
+    "Infinitive_vs_gerund.md",
+    "Infinitive_complex_object.md",
+    "Past_perfect.md",
+    "Subjunctive_mood.md",
+    "Narrative_tenses.md",
+    "Suffix-es.md",
+    "Verb_and_preposition_collocations.md",
+    "Present_simple.md",
+    "Reported_speech_changes.md",
+    "Preposition_of_time.md",
+    "Untitled.canvas",
     "Prepositions.md",
-    "[[zero_article]].md",
-    "Simple.md",
-    "Noun.md",
-    "a_an.md"
+    "followed_by.md"
   ]
 }

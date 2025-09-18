@@ -4,3 +4,10 @@
 [[submodule]]
 [[git_apply]]
 [[git_patch]]
+[[git_rebase]]
+[[git_log]]
+[[git_reset]]
+[[git_stash]]
+[[git_bisect]]
+[[git_reflog]]
+

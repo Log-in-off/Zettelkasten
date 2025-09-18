@@ -1,0 +1,1 @@
+this is a part of **superlative** form of [[Degrees_of_comparison]]

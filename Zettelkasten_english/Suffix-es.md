@@ -14,7 +14,8 @@ We use this suffix  for the case third person singular in [[Present_simple]] ten
 		- `-o`: veto + `-es` => vetoes; go + `-es` => goes; do; echo 
 			- exception `-oo`:
 				- tattoo + `s` => tattoos
-- if verb ends in `-y`, we have to change `-y` to `-i` and add `-es`
+- if verb ends in `-y` which is preceded by a constant, we have to change `-y` to `-i` and add `-es` otherwise just add `-s`
 	- examples
 		- try + `-ies` => tries; worry + `-ies` => worries
+		- delay + `s` => delays;
 	

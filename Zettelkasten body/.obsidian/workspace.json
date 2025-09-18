@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d257f04e9cb5daf5",
+        "id": "b270552d186f26d0",
         "type": "tabs",
         "children": [
           {
-            "id": "fd5456551fcb7ab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Неуточненные типы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f290eabe38af83b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0898b37133ccc310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "copy-and-swap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e09e167da8812dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "submodule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cad5868102be8c73",
+            "id": "c4f082b317e68390",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,57 +16,167 @@
                 "file": "git.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "git"
             }
           },
           {
-            "id": "ec970060c31c957d",
+            "id": "926125991fc2e075",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "submodule.md",
+                "file": "git_apply.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "git_apply"
             }
           },
           {
-            "id": "d550b985026d3f0a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "4a48c7077099513f",
+            "id": "4ac86057fcea21b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "submodule.md",
+                "file": "Linux OS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Linux OS"
             }
           },
           {
-            "id": "efabbc1da0469cd9",
+            "id": "1f079b8b1b22c5da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++.md",
+                "file": "ssh.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ssh"
+            }
+          },
+          {
+            "id": "3b11fb56ef14234b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dns"
+            }
+          },
+          {
+            "id": "fd46efcc569ec1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "docker"
+            }
+          },
+          {
+            "id": "ac1e5d60a96e18d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "disk_space_management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "disk_space_management"
+            }
+          },
+          {
+            "id": "7a47dc324f41762d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_reflog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git_reflog"
+            }
+          },
+          {
+            "id": "23767dc8a916023b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_bisect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git_bisect"
+            }
+          },
+          {
+            "id": "9ff292e616b887fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_stash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git_stash"
+            }
+          },
+          {
+            "id": "3a0b28ecb8bd3f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_reset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git_reset"
+            }
+          },
+          {
+            "id": "87f049229e23c925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git_log"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,8 +195,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -143,13 +208,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -157,7 +224,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -180,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "submodule.md",
+                "file": "ssh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +257,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ssh"
             }
           },
           {
@@ -197,10 +268,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "submodule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -211,7 +283,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -219,9 +293,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "submodule.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -233,7 +307,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -244,6 +320,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -252,34 +329,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d550b985026d3f0a",
+  "active": "1f079b8b1b22c5da",
   "lastOpenFiles": [
-    "git.md",
-    "submodule.md",
-    "git_apply.md",
-    "git_clean.md",
-    "config.md",
+    "ssh.md",
+    "Linux OS.md",
+    "disk_space_management.md",
+    "2025-02-26.md",
+    "2025-09-18.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "docker.md",
+    "find.md",
+    "dns.md",
     "git_patch.md",
-    "Неуточненные типы.md",
-    "auto.md",
-    "CTAD.md",
-    "revert.md",
-    "Templates.md",
-    "copy-and-swap.md",
-    "CMake.md",
-    "Template specialization.md",
+    "git.md",
+    "tty.md",
+    "git_apply.md",
+    "LSP.md",
     "hacks.md",
+    "git_reset.md",
+    "Execution policy.md",
+    "Explicit instantiation.md",
+    "Delete specialization.md",
+    "DIP.md",
+    "CPU_Architectures.md",
+    "git_reflog.md",
+    "git_bisect.md",
+    "git_stash.md",
+    "git_log.md",
+    "git_rebase.md",
     "C++.md",
-    "Деструктор.md",
-    "Reason to use this.md",
-    "ffmpeg.md",
-    "forward.md",
-    "Decltype.md",
-    "Оператор noexcept.md",
-    "Вывод типов.md",
-    "Value Categories.md",
-    "for auto&&.md",
-    "Forwarding references.md",
     "Pasted image 20230813190244.png",
     "Pasted image 20230726112221.png",
     "Pasted image 20230721124540.png",

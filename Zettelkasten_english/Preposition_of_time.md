@@ -1,5 +1,5 @@
 ## in
-- **in** is used in the cases of time periods: a big(months,  season, years, ages ), short (parts of the day)  or events in future
+- **in** is used in the cases of time periods: big(months,  season, years, ages ), short (parts of the day)  or events in future
 	- example
 		- in [[the]] summer,  in the year, in the age, in the century
 		- in [[the]] morning, in the afternoon, in the evening
@@ -111,8 +111,8 @@
 **past** is used to express time that has gone by. 
 - Often it means too much time after special time. (too late) 
 	- example
-		- By now, it is past the the time to make a decision.  
-		- He finish work past 8 PM.
+		- By now, it is past the time to make a decision.  
+		- He finished work past 8 PM.
 - Telling Time
 	- example
 		- It's ten past six. (6:10)

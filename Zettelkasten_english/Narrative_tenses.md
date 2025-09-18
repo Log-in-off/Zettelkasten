@@ -1,0 +1,18 @@
+For narrative telling we often use those tenses:
+- [[Past_simple]] we use for:
+	-  main events in the story
+		- I head scream and looked around.
+	- events that happen **one after  another**
+		- He saw me but didn't say "Hello"
+	- a **single action** that happened **at a definite time** in the past
+		- I left home at 7 am. 
+- [[Past_continuous]] we use for:
+	- description of a **background action**
+		- The sun was shining, the birds were singing, everything looked perfectly well.
+	- description of an **action in progress** in the past
+		- I was dreaming about my future all night. 
+	- description of **two or more simultaneous action**
+		- What were you doing when he was watching TV? 
+- [[Past_perfect]] we use for:
+	- something that happened **before the main events** or the story
+		- He understood that he had forgotten to turn off the iron. 

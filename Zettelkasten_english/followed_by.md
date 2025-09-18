@@ -1,0 +1,2 @@
+- _X is followed by Y_ -> the first is X, the second is Y. 
+- The first two classes are followed by a break of ten minutes. -> a break of ten minutes is after two classes. 
