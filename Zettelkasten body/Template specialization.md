@@ -1,4 +1,4 @@
-[example](https://devtut.github.io/cpp/templates.html#template-specialization)
+ [example](https://devtut.github.io/cpp/templates.html#template-specialization)
 cпециализация шаблонов
 Шаблон класса может быть специализирован, т.е. его частный случай для конкретного типа будет указан непосредственно
 ```cpp
@@ -46,4 +46,44 @@ int foo() {return max<double>(2.0, 3.0);}
 int bar() {return max<int>(2, 3);}
 // Ошибка: ODR violation. explicit specialization after instantiation
 template<> int max(int x, int y) {return 43;}
+```
+
+### Специализация метода шаблонного класса
+
+```cpp
+template <typename T>
+class Observer:public IObserver<T> {
+public:
+	Observer(ISubject<T>& obj): subject_(obj) {
+		subject_.Attach(this);
+	} 
+
+	virtual ~Observer() override = default;	  
+	
+	void Update(T data) override {	
+		data_ = data;		
+		std::cout << "data was updated\n";	
+		PrintData();
+	}
+
+	void PrintData() {}
+	
+	void Unsubscribe(void) {	
+		subject_.Detach(this);	
+	}
+
+private:
+	ISubject<T>& subject_;	
+	T data_;
+};
+
+template<>
+void Observer<std::string>::PrintData() {
+	std::cout << "print string: " << data_ << std::endl;
+}
+
+template<>
+void Observer<int>::PrintData() {
+	std::cout << "print int:" << data_ << std::endl;
+}
 ```

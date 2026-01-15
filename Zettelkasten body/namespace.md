@@ -1,1 +1,2 @@
 [[hacks]]
+[[enum_class]]

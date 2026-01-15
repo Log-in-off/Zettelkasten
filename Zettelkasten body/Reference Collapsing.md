@@ -2,11 +2,11 @@
 [Лекция](https://youtu.be/MsuddUd7E2A?list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&t=2642)
 
 | Inner | Outer | Result |
-|-|-|-|
-| T& | T& | T& |
-| T& | T&& | T& |
-| T&& | T& | T& |
-| T&& | T&& | T&& |
+| ----- | ----- | ------ |
+| T&    | T&    | T&     |
+| T&    | T&&   | T&     |
+| T&&   | T&    | T&     |
+| T&&   | T&&   | T&&    |
 
 Левая ссылка выигрывает, если она есть
 ```cpp

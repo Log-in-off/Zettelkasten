@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b270552d186f26d0",
+        "id": "7eaaa52514757b70",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f082b317e68390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git"
-            }
-          },
-          {
-            "id": "926125991fc2e075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git_apply.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git_apply"
-            }
-          },
-          {
-            "id": "4ac86057fcea21b3",
+            "id": "6a59a71f07395131",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,133 +22,161 @@
             }
           },
           {
-            "id": "1f079b8b1b22c5da",
+            "id": "45b1eae8cfb1d048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssh.md",
+                "file": "annotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ssh"
+              "title": "annotation"
             }
           },
           {
-            "id": "3b11fb56ef14234b",
+            "id": "ed7546221aa36bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dns.md",
+                "file": "Ref_qualifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dns"
+              "title": "Ref_qualifiers"
             }
           },
           {
-            "id": "fd46efcc569ec1b4",
+            "id": "f05da64ddf42fbbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker.md",
+                "file": "Оператор noexcept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "Оператор noexcept"
             }
           },
           {
-            "id": "ac1e5d60a96e18d1",
+            "id": "82f4a582fbac28cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "disk_space_management.md",
+                "file": "override.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "disk_space_management"
+              "title": "override"
             }
           },
           {
-            "id": "7a47dc324f41762d",
+            "id": "6e96dc1adf130f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git_reflog.md",
+                "file": "Ref_qualifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git_reflog"
+              "title": "Ref_qualifiers"
             }
           },
           {
-            "id": "23767dc8a916023b",
+            "id": "46069aabe8e53d12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git_bisect.md",
+                "file": "annotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git_bisect"
+              "title": "annotation"
             }
           },
           {
-            "id": "9ff292e616b887fc",
+            "id": "9f3c135b55ad3be1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git_stash.md",
+                "file": "Оператор noexcept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git_stash"
+              "title": "Оператор noexcept"
             }
           },
           {
-            "id": "3a0b28ecb8bd3f33",
+            "id": "cf99f390aa934775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git_reset.md",
+                "file": "design_tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git_reset"
+              "title": "design_tips"
             }
           },
           {
-            "id": "87f049229e23c925",
+            "id": "ab2a0b07d75be3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git_log.md",
+                "file": "Хороший код.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git_log"
+              "title": "Хороший код"
+            }
+          },
+          {
+            "id": "af15fdd6aceeedfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Behavioral_patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Behavioral_patterns"
+            }
+          },
+          {
+            "id": "c9d6042a98cc5a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "enum_class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "enum_class"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "поведе",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ssh.md",
+                "file": "override.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ssh"
+              "title": "Backlinks for override"
             }
           },
           {
@@ -329,36 +329,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f079b8b1b22c5da",
+  "active": "82f4a582fbac28cf",
   "lastOpenFiles": [
-    "ssh.md",
-    "Linux OS.md",
-    "disk_space_management.md",
-    "2025-02-26.md",
-    "2025-09-18.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "docker.md",
-    "find.md",
-    "dns.md",
-    "git_patch.md",
-    "git.md",
-    "tty.md",
-    "git_apply.md",
-    "LSP.md",
-    "hacks.md",
-    "git_reset.md",
-    "Execution policy.md",
-    "Explicit instantiation.md",
-    "Delete specialization.md",
-    "DIP.md",
-    "CPU_Architectures.md",
-    "git_reflog.md",
-    "git_bisect.md",
-    "git_stash.md",
-    "git_log.md",
-    "git_rebase.md",
+    "annotation.md",
+    "Ref_qualifiers.md",
+    "enum_class.md",
+    "Менеджмент.md",
+    "const.md",
+    "Условный noexcept.md",
+    "override.md",
+    "attributes.md",
+    "Оператор noexcept.md",
+    "design_tips.md",
+    "OOP.md",
+    "Хороший код.md",
+    "Базовые понятия.md",
+    "Паттерны проектирования.md",
+    "Behavioral_patterns.md",
     "C++.md",
+    "Inheritance.md",
+    "config.md",
+    "disk_space_management.md",
+    "Отношения между типами.md",
+    "Агрегирование.md",
+    "Композиция.md",
+    "UML.md",
+    "Observer_pattern.md",
+    "Untitled.base",
+    "smartctl.md",
+    "Linux OS.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
     "Pasted image 20230813190244.png",
     "Pasted image 20230726112221.png",
     "Pasted image 20230721124540.png",

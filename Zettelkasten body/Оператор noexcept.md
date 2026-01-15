@@ -4,7 +4,7 @@ T copy(T const& orig) noexcept(noexcept(T(orig))) {
 	return orig;
 }
 ```
-оператор noexcept служит для более тонкой настройки. Он проверят, может ли объект бросить исключение(точнее копи-конструктор и деструктор)
+оператор noexcept служит для более тонкой настройки с помощью [[annotation]]. Он проверят, может ли объект бросить исключение(точнее копи-конструктор и деструктор)
 
 В идеале он должен быть глубоко в библиотечном коде. И лучше пользовать им(пример `std::is_nothrow_copy_constructible<T>::value`) если это возможно. 
 
@@ -18,4 +18,5 @@ assert(noexcept(foo(1))) == true);
 assert(noexcept(foo(ThrowingCtor{})) == false);
 ```
 потому что конструктор `ThrowingCtor` не анотирован `ThrowingCtor`
-[[URL]] https://youtu.be/d0iqsUx_Aow?t=831
+[URL](https://youtu.be/d0iqsUx_Aow?t=831)
+

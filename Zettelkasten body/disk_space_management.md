@@ -12,3 +12,8 @@ df -h
 ``` bash
  sudo du -h /var/lib/docker/ | sort -h
 ```
+
+копирование с правами и визуалицаией (возможно  флага -ah достаточно)
+```bash
+rsync -aHAX --info=progress2 library/ /mnt/raid1/immich_store/library/
+```

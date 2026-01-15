@@ -10,4 +10,5 @@
 [[git_stash]]
 [[git_bisect]]
 [[git_reflog]]
+[[git_merg_base]]
 

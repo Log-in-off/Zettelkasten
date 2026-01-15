@@ -20,3 +20,34 @@ decltype(t) u = 1;// const int& u
 auto foo(int x); // non-fixed ABI(form c++14)
 int foo(auto x); // non-fixed ABI(from c++20) //по факту это шаблоная функция
 ```
+
+## Нюанс использования auto
+
+`operator[]` у  `std::vector<bool>` не возвращает ссылку на `bool` элемент. На самом деле возвращает  `std::vector<bool>::referance` или `std::_Bit_reference`
+
+```cpp
+std::vector<bool> function_a(const Widget& w) { /*code*/}
+
+//correct
+bool isHightBit = function_a(w)[5]; // обращаемся к пятому элементу вектора битов
+if (isHightBit)
+{
+	//do this
+}
+
+//UB
+auto isHightBit = function_a(w)[5];
+if (isHightBit) // это не bool. по факту это висячий указатель
+{
+}
+```
+
+`std::vector<bool>::referance` это по факту "невидимые прокси класс" и нужно избегать конструкции
+```cpp
+auto someVar = выражения с типом "невидимого" прокси-класса
+```
+
+решение [Явно_типизированный_иницализатор]
+```cpp
+auto value = static_ast<bool>function_a(w)[5];
+```

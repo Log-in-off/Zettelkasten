@@ -2,7 +2,7 @@
 [[Исключения]]
 [[Идиомы]]
 [[Утилиты]]
-[[Деструктор]]
+[[destructor]]
 [[Templates]]
 [[namespace]]
 [[Reason to use this]]
@@ -11,3 +11,5 @@
 [[Copy Elision]]
 
 [[c++17]]
+[[Inheritance]]
+[[std]]
